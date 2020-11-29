@@ -124,5 +124,8 @@
       }
     }
   },
-  "defaultProject": "clinicfeed"
+  "defaultProject": "clinicfeed",
+  "cli": {
+    "analytics": "a9821127-4831-4281-b66e-5c21d4576cb8"
+  }
 }
